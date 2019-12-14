@@ -1,5 +1,10 @@
 # Collection of useful external Brew commands
 
+## Installation
+```sh
+$ brew tap yumitsu/commands
+```
+
 ## `brew-orphans`
 This command shows you leftover directories of improperly uninstalled or removed formulas inside your `Cellar`:
 ```sh
